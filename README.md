@@ -2,7 +2,7 @@
 
 ## Description
 
-Todoey is a to-do list app where you can create categories and add items to each category. It uses Realm as a backend database. 
+Todoey is a to-do list app where you can create/delete categories and add/delete items to each category. It uses Realm as a backend database. 
 
 ## What I learned
 
